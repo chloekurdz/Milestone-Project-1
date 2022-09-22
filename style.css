@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    border-radius: 40px;
+    max-width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    padding: 120px;
+    font-family: arial;
+   
+}
+
+body {
+    background-color: lightgray;
+}
+
+.play {
+    border-radius: 5px;
+    background-color: #FFBCE5;
+    padding: 5px;
+    margin-left: 424px
+}
