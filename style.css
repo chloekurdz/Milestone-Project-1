@@ -1,13 +1,18 @@
 h1 {
     text-align: center;
+    padding-top: 20px;
 }
 
 h2 {
     text-align: center;
+    padding-bottom: 70px;
+    padding-top: 25px;
 }
 
 p {
     text-align: center;
+    padding-top: 70px;
+    
 }
 
 img {
@@ -26,11 +31,35 @@ img {
 
 body {
     background-color: lightgray;
+    border-style: dashed;
+    margin: 30px;
+    border-radius: 15px
 }
 
 .play {
     border-radius: 5px;
     background-color: #FFBCE5;
-    padding: 5px;
-    margin-left: 424px
+    padding: 10px;
+    margin-left: 401px;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    word-spacing: 175px;
+    padding: 15px;
+    
+}
+
+li {
+    display: inline;
+    font-weight: bold;
+    
+}
+
+footer {
+    font-family: arial;
+    padding-top: 20px;
+   
 }
