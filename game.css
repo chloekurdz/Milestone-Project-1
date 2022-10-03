@@ -5,11 +5,11 @@ h1 {
 }
 
 header {
-    background-color: lightgray;
+    background-color: #FFBCE5;
     padding: 50px;
     border-style: dashed;
 }
-p {
+h4 {
     font-family: arial;
     text-align: center;
 }
@@ -26,3 +26,8 @@ button {
     border-radius: 20px;
     border-color: black;
 }
+
+#score {
+    margin-left: 490px;
+}
+
